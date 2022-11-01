@@ -1,5 +1,4 @@
 import java.util.Scanner;
-// TODO:  Retorne o valor da soma de todos múltiplos de "A" até o seu limite "N".
 public class Desafio02 {
     public static void main(String[] args) {
         int A, N;
@@ -17,3 +16,4 @@ public class Desafio02 {
         input.close();
     }
 }
+
