@@ -17,5 +17,6 @@ public class Desafio05 {
         }else{
             System.out.println("Numero "+numero+" nao encontrado!");
         }
+        input.close();
     }
 }
